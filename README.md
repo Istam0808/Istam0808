@@ -14,3 +14,4 @@ Hi all! My name is Istam, I'm studying to become a FullStack developer. I love c
   </a>
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istam0808&layout=compact&theme=cobalt&hide_border=true" />
