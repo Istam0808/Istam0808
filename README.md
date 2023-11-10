@@ -5,7 +5,7 @@ Hi all! My name is Istam, I'm studying to become a FullStack developer. I love c
 
 
 <H1>Languages and Tools</H1>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3454AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <H1>Databases</H1>
 <p>
