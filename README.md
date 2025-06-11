@@ -2,6 +2,10 @@
 
 Hi all! My name is Istam, I'm studying to become a FullStack developer. <p align="left"> <img src="https://komarev.com/ghpvc/?username=Istam0808&label=Profile%20views&color=0e75b6&style=flat" alt="Istam0808" /> </p>
 
+
+Resume: https://docs.google.com/document/d/1LqRSNR9gjqjUQm8txga2SnmMcJ3Gs7d_W7O0BvvPcR8/edit?usp=sharing
+
+
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="alisherxujanov" /></a> </p>
 
