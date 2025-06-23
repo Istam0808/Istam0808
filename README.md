@@ -20,24 +20,9 @@
 
 ## 🌟 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" align="right" alt="Coding">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" align="center" alt="Coding">
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  languages: string[];
-  currentlyLearning: string[];
-  askMeAbout: string[];
-  technologies: {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    tools: string[];
-  };
-}
-
 const istam: Developer = {
   name: "Istam Mamadaliyev",
   role: "Full Stack Developer",
@@ -200,10 +185,12 @@ const istam: Developer = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
+  <div align="center">
   <h3>💜 Thanks for visiting my profile! 💜</h3>
   <p>Feel free to reach out if you want to collaborate on something amazing!</p>
+  </img>
 </div>
+</div>
+
+
