@@ -119,21 +119,7 @@ const istam: Developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=Istam0808&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
 
-## 💹 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Istam0808&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
-
-## 📈 Productivity Stats
-
-<div align="center">
-  
-| 🏃‍♂️ **Weekly Development Breakdown** |
-|:---:|
-| ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Istam0808&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact) |
-
-</div>
 
 ---
 
