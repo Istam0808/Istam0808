@@ -20,7 +20,7 @@
 
 ## 🌟 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" align="center" alt="Coding">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" align="center" alt="Coding">
 
 ```typescript
 const istam: Developer = {
@@ -40,13 +40,6 @@ const istam: Developer = {
 ```
 ---
 
-## 🚀 Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,vue,nextjs,nuxtjs,nodejs,django,fastapi,postgres,mongodb,redis,docker,aws,git,github,figma,vscode" alt="Skills" />
-
-</div>
 
 ### 💻 Languages
 <div align="center">
@@ -167,8 +160,8 @@ const istam: Developer = {
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Istam_ake)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@istam_ake7614)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/istam_ake/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/istam-mamadaliyev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:istam.mamadaliyev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istam-ake-3871b436b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamadaliyevistam@gmail.com)
 
 </div>
 
