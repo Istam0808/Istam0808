@@ -157,7 +157,7 @@ const istam: Developer = {
 
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1LqRSNR9gjqjUQm8txga2SnmMcJ3Gs7d_W7O0BvvPcR8/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1LqRSNR9gjqjUQm8txga2SnmMcJ3Gs7d_W7O0BvvPcR8/edit?usp=sharing)
 
 </div>
 
