@@ -141,9 +141,9 @@ const istam: Developer = {
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/istam_ake/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istam-ake-3871b436b/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamadaliyevistam@gmail.com)
-  ||||||||||||||||||||||||||||||
+  ||||||||||
   [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1LqRSNR9gjqjUQm8txga2SnmMcJ3Gs7d_W7O0BvvPcR8/edit?usp=sharing)
-  ||||||||||||||||||||||||||||||
+  ||||||||||
 
   </div>
 </div>
