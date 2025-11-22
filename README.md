@@ -30,9 +30,28 @@
 
 ---
 
+## 🎬 Video Introduction
+
+<div align="center">
+  
+[![Watch my Video Introduction](https://img.shields.io/badge/▶_Watch_Video_Introduction-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mYfy9GUgCNA)
+
+</div>
+
+---
+
+## 💼 Hire Me
+
+<div align="center">
+  
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d1eae8cce723af0d?mp_source=share)
+[![Kwork](https://img.shields.io/badge/Kwork-FF6B00?style=for-the-badge&logo=freelancer&logoColor=white)](https://kwork.ru/user/mamadaliyevistam)
+
+</div>
+
+---
+
 ## 🌟 About Me
-
-
 
 ```typescript
 const istam: Developer = {
@@ -50,8 +69,8 @@ const istam: Developer = {
   }
 };
 ```
----
 
+---
 
 ### 💻 Languages
 <div align="center">
@@ -120,7 +139,7 @@ const istam: Developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Istam0808&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff&area=true&hide_border=true" />
 </div>
 
-
+---
 
 ## 🏆 GitHub Trophies
 
@@ -128,28 +147,31 @@ const istam: Developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=Istam0808&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
 
-
 ---
 
+## 📫 Let's Connect!
 
-## 📫 Let's Connect! | 📄 Resume
-<div align="centre">
-  <div align="start">
+<div align="center">
   
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Istam_ake)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@istam_ake7614)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/istam_ake/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istam-ake-3871b436b/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamadaliyevistam@gmail.com)
-  ||||||||||
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1LqRSNR9gjqjUQm8txga2SnmMcJ3Gs7d_W7O0BvvPcR8/edit?usp=sharing)
-  ||||||||||
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Istam_ake)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@istam_ake7614)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/istam_ake/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istam-ake-3871b436b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamadaliyevistam@gmail.com)
 
-  </div>
 </div>
-  
+
 ---
 
+## 📄 Resume
+
+<div align="center">
+  
+[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1LqRSNR9gjqjUQm8txga2SnmMcJ3Gs7d_W7O0BvvPcR8/edit?usp=sharing)
+
+</div>
+
+---
 
 <!-- Snake Animation -->
 <div align="center">
@@ -160,11 +182,9 @@ const istam: Developer = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
-  <div align="center">
+</div>
+
+<div align="center">
   <h3>💜 Thanks for visiting my profile! 💜</h3>
   <p>Feel free to reach out if you want to collaborate on something amazing!</p>
-  </img>
 </div>
-</div>
-
-
