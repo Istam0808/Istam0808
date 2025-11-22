@@ -44,7 +44,7 @@
 
 <div align="center">
   
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d1eae8cce723af0d?mp_source=share)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d1eae8cce723af0d)
 [![Kwork](https://img.shields.io/badge/Kwork-FF6B00?style=for-the-badge&logo=freelancer&logoColor=white)](https://kwork.ru/user/mamadaliyevistam)
 
 </div>
