@@ -1,171 +1,101 @@
+<!-- ============ HEADER ============ -->
 <p align="center">
-  <img align="center" src="https://github.com/Istam0808/Istam0808/blob/main/developer.gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Istam%20Mamadaliyev&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Uzbekistan%20%F0%9F%87%BA%F0%9F%87%BF&descAlignY=58&descSize=16" alt="header" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Istam0808">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Next.js+%E2%80%A2+React+%E2%80%A2+Vue+%E2%80%A2+Nuxt;Django+DRF+%E2%80%A2+FastAPI+%E2%80%A2+Node.js;Founder+of+fm-it.uz+%E2%80%94+IT+school;Building+EdTech+products+for+Uzbekistan" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Istam0808&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Istam0808?style=for-the-badge&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Istam0808?style=for-the-badge&color=yellow" alt="GitHub stars" />
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" align="center" alt="Coding">
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Istam0808&label=Views&color=58a6ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Istam0808?style=flat-square&color=58a6ff&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Istam0808?affiliations=OWNER&style=flat-square&color=58a6ff&label=Stars" alt="Stars" />
+  <a href="https://www.youtube.com/watch?v=mYfy9GUgCNA"><img src="https://img.shields.io/badge/▶_Video_intro-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Video intro" /></a>
+</p>
 
-## 🎬 Video Introduction
+<!-- ============ ABOUT ============ -->
+## 👋 About me
 
-<div align="center">
-  
-[![Watch my Video Introduction](https://img.shields.io/badge/▶_Watch_Video_Introduction-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mYfy9GUgCNA)
+<img align="right" width="340" src="https://raw.githubusercontent.com/Istam0808/Istam0808/main/developer.gif" alt="developer" />
 
-</div>
+- 🏫 Founder of **[fm-it.uz](https://fm-it.uz)** — IT school & learning platform
+- 🧪 Building **[examode](https://examode.uz)** — CEFR exam platform for learning centers
+- ⚡ Full-stack: **Next.js + Django DRF** is my daily stack
+- 🌱 Learning **System Design** and **Microservices**
+- 💬 Ask me about **Web Dev, EdTech, Career in IT**
+- 🗣️ Uzbek · Русский · English
+- 💼 Open to freelance — [Upwork](https://www.upwork.com/freelancers/~01d1eae8cce723af0d) · [Kwork](https://kwork.ru/user/mamadaliyevistam)
 
----
+<br clear="right" />
 
-## 💼 Hire Me
+<!-- ============ STACK ============ -->
+## 🛠️ Tech stack
 
-<div align="center">
-  
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d1eae8cce723af0d)
-[![Kwork](https://img.shields.io/badge/Kwork-FF6B00?style=for-the-badge&logo=freelancer&logoColor=white)](https://kwork.ru/user/mamadaliyevistam)
+<p align="center">
+  <b>Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,tailwind,sass,html,css&theme=dark" alt="frontend" />
+</p>
+<p align="center">
+  <b>Backend & Data</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,postgres,mongodb,redis,sqlite&theme=dark" alt="backend" />
+</p>
+<p align="center">
+  <b>DevOps & Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,figma,vscode&theme=dark" alt="tools" />
+</p>
 
-</div>
+<!-- ============ ANALYTICS ============ -->
+## 📊 GitHub analytics
 
----
+<!-- Карточки генерирует GitHub Action (.github/workflows/profile.yml) прямо в этот репозиторий,
+     поэтому они не зависят от перегруженных публичных Vercel-инстансов -->
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="top languages" />
+</p>
 
-## 🌟 About Me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Istam0808&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="streak" />
+</p>
 
-```typescript
-const istam: Developer = {
-  name: "Istam Mamadaliyev",
-  role: "Full Stack Developer",
-  location: "Uzbekistan 🇺🇿",
-  languages: ["JavaScript", "Python", "TypeScript"],
-  currentlyLearning: ["System Design", "Microservices"],
-  askMeAbout: ["Web Dev", "Tech", "Career Advice"],
-  technologies: {
-    frontend: ["React", "Vue.js", "Next.js", "Nuxt.js"],
-    backend: ["Django", "Node.js", "FastAPI"],
-    database: ["PostgreSQL", "MongoDB", "Redis"],
-    tools: ["Docker", "AWS", "Git", "Figma"]
-  }
-};
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Istam0808&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff&area=true&hide_border=true" width="100%" alt="activity graph" />
+</p>
 
----
+<!--
+  Если хочешь вернуть классические карточки github-readme-stats — задеплой свой инстанс
+  (Fork https://github.com/anuraghazra/github-readme-stats → Import в Vercel → env PAT_1 = твой токен)
+  и замени домен ниже на свой:
+  <img src="https://YOUR-INSTANCE.vercel.app/api?username=Istam0808&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+-->
 
-### 💻 Languages
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ============ SNAKE ============ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Istam0808/Istam0808/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Istam0808/Istam0808/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Istam0808/Istam0808/output/snake-dark.svg" alt="snake" />
+  </picture>
+</p>
 
-</div>
+<!-- ============ CONTACTS ============ -->
+## 📫 Let's connect
 
-### 🎨 Frontend
-<div align="center">
-  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <a href="https://t.me/Istam_ake"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/istam-ake-3871b436b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@istam_ake7614"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/istam_ake/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mamadaliyevistam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://docs.google.com/document/d/1LqRSNR9gjqjUQm8txga2SnmMcJ3Gs7d_W7O0BvvPcR8/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+</p>
 
-</div>
-
-### ⚙️ Backend & Database
-<div align="center">
-  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-### 🛠️ Tools & Cloud
-<div align="center">
-  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Istam0808&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istam0808&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Istam0808&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Istam0808&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Istam0808&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Istam_ake)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@istam_ake7614)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/istam_ake/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istam-ake-3871b436b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamadaliyevistam@gmail.com)
-
-</div>
-
----
-
-## 📄 Resume
-
-<div align="center">
-  
-[![Resume](https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1LqRSNR9gjqjUQm8txga2SnmMcJ3Gs7d_W7O0BvvPcR8/edit?usp=sharing)
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Istam0808/Istam0808/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer">
-</div>
-
-<div align="center">
-  <h3>💜 Thanks for visiting my profile! 💜</h3>
-  <p>Feel free to reach out if you want to collaborate on something amazing!</p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
+</p>
