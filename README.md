@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Istam%20Mamadaliyev&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Uzbekistan%20%F0%9F%87%BA%F0%9F%87%BF&descAlignY=58&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Istam%20Mamadaliyev&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Uzbekistan&descAlignY=58&descSize=16" alt="header" />
 </p>
 
 <p align="center">
@@ -19,17 +19,14 @@
 <!-- ============ ABOUT ============ -->
 ## 👋 About me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/Istam0808/Istam0808/main/developer.gif" alt="developer" />
-
 - 🏫 Founder of **[fm-it.uz](https://fm-it.uz)** — IT school & learning platform
+- 🎯 Co-Founder of **[ieltsmode.com](https://www.ieltsmode.com/)** — mock IELTS platform
 - 🧪 Building **[examode](https://examode.uz)** — CEFR exam platform for learning centers
 - ⚡ Full-stack: **Next.js + Django DRF** is my daily stack
 - 🌱 Learning **System Design** and **Microservices**
 - 💬 Ask me about **Web Dev, EdTech, Career in IT**
 - 🗣️ Uzbek · Русский · English
 - 💼 Open to freelance — [Upwork](https://www.upwork.com/freelancers/~01d1eae8cce723af0d) · [Kwork](https://kwork.ru/user/mamadaliyevistam)
-
-<br clear="right" />
 
 <!-- ============ STACK ============ -->
 ## 🛠️ Tech stack
@@ -62,10 +59,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Istam0808&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Istam0808&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=58a6ff&area=true&hide_border=true" width="100%" alt="activity graph" />
 </p>
 
 <!--
